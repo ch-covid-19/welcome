@@ -9,4 +9,5 @@
 - [For developers that want to help](https://airtable.com/shrjcoOoloiAuTiHS)
 - [For translators that want to help](https://airtable.com/shr3yx1hGdFyOVhdl)
 - [For social network expert that want to help](https://airtable.com/shrJJDqvqnsZkaJjb)
+- [For epidemiologist that want to help](https://airtable.com/shrhu386Tlxp8zeiq)
 - [For others that want to help](https://airtable.com/shrFBmrhwXXh6TJsn)
