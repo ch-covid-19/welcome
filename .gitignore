@@ -1,0 +1,11 @@
+#remove ide files
+.idea/
+.idea/*
+
+# remove cache
+*__pycache__*
+
+# remove macosx index
+*/.DS_Store
+.DS_Store
+
