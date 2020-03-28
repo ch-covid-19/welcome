@@ -5,6 +5,7 @@ First of all, thanks for supporting us to provide statistical visualizations of 
 This project started friday 20 march 2020 and was launched on:
 - [Switzerland](https://covid-self-report.ch/): On production since the 24 march 2020. 
 - Mexico: Under developement
+- Others countries: we are looking for team leaders
 
 We are looking planing to deploy our app in as many country as we can but for that, **we need your help**.
 
