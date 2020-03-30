@@ -4,8 +4,8 @@ First of all, thanks for supporting us to provide statistical visualizations of 
 
 This project started friday 20 march 2020 and was launched on:
 - [Switzerland](https://covid-self-report.ch/): On production since the 24 march 2020. 
-- Mexico: Under developement
-- India: Under developement
+- Mexico: Under test
+- India: Under test
 - Italia: Under developement
 - Pakistan: Under developement
 - Poland: Under developement
