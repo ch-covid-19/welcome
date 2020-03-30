@@ -23,7 +23,7 @@ We will soon search for financial support...(#funding on slack)
 
 ## I want to replicate the app for a country, what do I need?
 
-You need developers that can understand our code, translators, peoples to manage social network...and of course a domain name.
+You will need developers that can understand our code, translators, people to manage social network...and of course a domain name. We have a large team now, and as people free up from deployments can help with yours as well. Ultimately you will become the webmaster for your country.
 
 - [For the developers](./needs/developers.md)
 - [For the social network](./needs/social-network.md)
