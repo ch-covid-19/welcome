@@ -8,6 +8,7 @@ This project started friday 20 march 2020 and was launched on:
 - India: Under developement
 - Italia: Under developement
 - Pakistan: Under developement
+- Poland: Under developement
 - Others countries: we are looking for team leaders
 
 We are looking planing to deploy our app in as many country as we can but for that, **we need your help**.
