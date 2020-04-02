@@ -21,9 +21,7 @@ We are planing to deploy our app in as many country as we can but for that **we 
 
 ## What is the plan?
 
-To be able to replicate our app in different countries, we need teams by country to deploy, maintain, and manage social network.
-
-The idea is to duplicate the app and not centralize the all the effort in one team...Open source is much more fun.
+To be able to replicate our app in different countries, we need teams by country to deploy, maintain, and manage social network. The idea is to duplicate the app and not centralize the all the effort in one team...Open source is much more fun.
 
 **Warning**: this means that every team has to find a credit card that can support the cost of the traffic by country. 
 The cost are very low on firebase but do your calculation based on the targeted population country.
