@@ -2,7 +2,7 @@
 
 ## Flatten the curve, right?
 
-We know that the state of the spread today will actually impact the society in a few days. Testing and isolation are the two main strategies to then forecast or reduce this impact. Isolation hits the economy bad. Testing is expensive, not widely available, and in some countries limited. Anyway it is near to impossible to test everyone in the planet. **We want to allow communities to self-report their health status, and allow decision-makers to get a picture of the spread in ‘real-time’; to close that time gap between infections today and the impact next week.**
+We know that the state of the spread today will actually impact the society in a few days. Testing and isolation are the two main strategies to then forecast or reduce this impact. Isolation hits the economy bad. Testing is expensive, not widely available, and in some countries limited. Anyway it is near to impossible to test everyone in the planet. **We want to allow communities to self-report their health status, and allow decision-makers to get a picture of the spread in ‘real-time’ to close that time gap between infections today and the impact in the following days.**
 
 The plarform consists on a frontend (vue.js) in which the user reports their syntoms and provide their postal code anonymously. The data is then analysed (python) and sent to the backend (firebase). No data is stored in local machines.
 
