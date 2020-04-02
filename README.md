@@ -6,11 +6,11 @@ We know that the state of the spread today will actually impact the society in a
 
 The plarform consists on a frontend (vue.js) in which the user reports their syntoms and provide their postal code anonymously. The data is then analysed (python) and sent to the backend (firebase). No data is stored in local machines.
 
-Thanks to all that have supported us so far to provide statistical visualizations of the current Covid-19 pandemia. This project started friday 20 march 2020 and was launched on:
+Thanks to all that have supported us so far to provide statistical visualizations of the current Covid-19 pandemia. This project started Friday 20 March 2020 and was launched on:
 
-- [Switzerland](https://covid-self-report.ch/): On production since the 24 march 2020. 
-- [India](https://covid-self-report.in/): On production since the 30 march 2020. 
-- [Mexico](https://covid-me-reporto.mx/): On production since the 31 march 2020. 
+- [Switzerland](https://covid-self-report.ch/): On production since the 24 March 2020. 
+- [India](https://covid-self-report.in/): On production since the 30 March 2020. 
+- [Mexico](https://covid-me-reporto.mx/): On production since the 31 March 2020. 
 - Italia: Under developement
 - Pakistan: Under developement
 - Poland: Under developement
