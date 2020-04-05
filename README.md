@@ -11,7 +11,7 @@ Thanks to all that have supported us so far to provide statistical visualization
 - [Switzerland](https://covid-self-report.ch/): On production since the 24 March 2020. 
 - [India](https://covid-self-report.in/): On production since the 30 March 2020. 
 - [Mexico](https://covid-me-reporto.mx/): On production since the 31 March 2020. 
-- Italia: Under developement
+- [Italia](https://covid-self-report.it/): On production since the 5 April 2020.
 - Pakistan: Under developement
 - Poland: Under developement
 - Israel: Under developement
