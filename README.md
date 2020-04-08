@@ -25,11 +25,11 @@ The platrform consists ofn a frontend (vue.js) in which the user reports their s
 
 Thanks to all that who have supported us so far to provide statistical visualizations of the current Covid-19 pandemic. This project started Friday 20 March 2020 and was launched on:
 
-- [Switzerland](https://covid-self-report.ch/): In production since the 24 March 2020. 
-- [India](https://covid-self-report.in/): In production since the 30 March 2020. 
-- [Mexico](https://covid-me-reporto.mx/): In production since the 31 March 2020. 
-- [Italia](https://covid-self-report.it/): In production since the 5 April 2020.
-- [Pakistan](https://covid-self-report.pk): In production since the 6 April 2020
+- [Switzerland](https://covid-self-report.ch/): In production since 24 March 2020. 
+- [India](https://covid-self-report.in/): In production since 30 March 2020. 
+- [Mexico](https://covid-me-reporto.mx/): In production since 31 March 2020. 
+- [Italia](https://covid-self-report.it/): In production since 5 April 2020.
+- [Pakistan](https://covid-self-report.pk): In production since 6 April 2020
 - Malta: Under development
 - Poland: Under development
 - Israel: Under development
