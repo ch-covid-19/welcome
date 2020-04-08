@@ -29,7 +29,7 @@ Thanks to all that who have supported us so far to provide statistical visualiza
 - [India](https://covid-self-report.in/): In production since the 30 March 2020. 
 - [Mexico](https://covid-me-reporto.mx/): In production since the 31 March 2020. 
 - [Italia](https://covid-self-report.it/): In production since the 5 April 2020.
-- Pakistan: In production since the 6 April 2020
+- [Pakistan](https://covid-self-report.pk): In production since the 6 April 2020
 - Malta: Under development
 - Poland: Under development
 - Israel: Under development
