@@ -2,9 +2,7 @@
 
 ## What do we want to do?
 
-**We want to allow communities to self-report their health status and zone to produce a 'real-time' picture of the situation with a geographical reference.
-
-and allow decision-makers to get a picture of the spread in ‘real-time’ to close that the time gap between infections today and the impact in the following days.**
+**We want to allow communities to self-report their health status and zone to produce a 'real-time' picture of the situation with a geographical reference.**
 
 ## Why do we want to do it?
 
