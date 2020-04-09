@@ -32,6 +32,7 @@ Thanks to all that who have supported us so far to provide statistical visualiza
 - [Pakistan](https://covid-self-report.pk): In production since 6 April 2020
 - Malta: Under development
 - Poland: Under development
+- UK: Under develeopment
 - Israel: Under development
 - Others countries: we are looking for team leaders
 
